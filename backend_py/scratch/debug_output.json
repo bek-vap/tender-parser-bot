@@ -1,0 +1,842 @@
+{
+  "colonElements": [
+    {
+      "tag": "DIV",
+      "cls": "lot__header__number",
+      "directText": "Tender №:",
+      "nextSibTag": "DIV",
+      "nextSibCls": "lot__header__buttons",
+      "nextSibText": "Valyuta",
+      "parentTag": "DIV",
+      "parentCls": "lot__header"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Tugashiga qoldi:",
+      "nextSibTag": "DIV",
+      "nextSibCls": "clock flip-clock-wrapper",
+      "nextSibText": "9\n9\n0\n0\n0\n0\n5\n5\n9\n9\n0\n0\n0\n0\n6\n6\n9\n9\n0\n0\n0\n0\n6\n6\n3\n3\n2\n2\n0\n0\n9\n9",
+      "parentTag": "DIV",
+      "parentCls": ""
+    },
+    {
+      "tag": "P",
+      "cls": "mt-3",
+      "directText": "Boshlanish sanasi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "04-05-2026 15:48",
+      "parentTag": "DIV",
+      "parentCls": "card lot__top-info"
+    },
+    {
+      "tag": "STRONG",
+      "cls": "text-success mt-3 ",
+      "directText": "04-05-2026 15:48",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "P",
+      "parentCls": ""
+    },
+    {
+      "tag": "P",
+      "cls": "mt-3",
+      "directText": "Tugash sanasi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "21-05-2026 15:48",
+      "parentTag": "DIV",
+      "parentCls": "card  lot__top-info"
+    },
+    {
+      "tag": "STRONG",
+      "cls": "text-danger mt-3 ",
+      "directText": "21-05-2026 15:48",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "P",
+      "parentCls": ""
+    },
+    {
+      "tag": "P",
+      "cls": "mt-3",
+      "directText": "Jami boshlang‘ich narx:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1,813,000,000 UZS",
+      "parentTag": "DIV",
+      "parentCls": "card  lot__top-info "
+    },
+    {
+      "tag": "STRONG",
+      "cls": "font-weight-bold",
+      "directText": "Вид расчета:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "P",
+      "parentCls": "mb-0"
+    },
+    {
+      "tag": "STRONG",
+      "cls": "font-weight-bold",
+      "directText": "Наличие поэтапной оплаты:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "P",
+      "parentCls": "mb-0"
+    },
+    {
+      "tag": "STRONG",
+      "cls": "font-weight-bold",
+      "directText": "Периодичность:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "P",
+      "parentCls": "mb-0"
+    },
+    {
+      "tag": "STRONG",
+      "cls": "",
+      "directText": "Batafsil maʼlumot:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "P",
+      "parentCls": ""
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Buyurtmachi STIRi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Buyurtmachi nomi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Rasmiylashtirish tartibi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Takliflarni baholash mezoni:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Ishtirokchilarning takliflarini ko‘rib chiqish tartibi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Zakalat:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Kafolat xati:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Zakalat miqdori:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Avans to‘lovi miqdori:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Zaklad summasini yechish:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "To‘lov tartibi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Joylashtirish muddati:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Ochilish sanasi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "To‘lov muddati (to‘liq to‘lov):",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Buyurtmachi manzili:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Yetkazib berish manzili:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Belgilangan tillar :",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Holat:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Moliyalashtirish manbai:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Qo‘shimcha maʼlumotlar:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Texnik tavsif:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Min. o‘tish ball:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Ko‘rishlar soni:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "directText": "Aloqa raqami:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": "col-md-5 text-md-right"
+    },
+    {
+      "tag": "H5",
+      "cls": "text-primary mb-3",
+      "directText": "Yuklab olish uchun fayllar:",
+      "nextSibTag": "DIV",
+      "nextSibCls": "tabs-style-2",
+      "nextSibText": "Tex. topshiriq va ekspertiza xulosasi\nTexnik hujjatlar\nBayonnomalar\nShartnomalar",
+      "parentTag": "DIV",
+      "parentCls": "lot__info__info"
+    },
+    {
+      "tag": "H6",
+      "cls": "d-inline-block mb-0",
+      "directText": "Fayl nomi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": ""
+    },
+    {
+      "tag": "H6",
+      "cls": "d-inline-block mb-0 mt-1",
+      "directText": "Hajmi:",
+      "nextSibTag": "H6",
+      "nextSibCls": "d-inline-block",
+      "nextSibText": "Tipi:",
+      "parentTag": "DIV",
+      "parentCls": ""
+    },
+    {
+      "tag": "H6",
+      "cls": "d-inline-block",
+      "directText": "Tipi:",
+      "nextSibTag": null,
+      "nextSibCls": null,
+      "nextSibText": null,
+      "parentTag": "DIV",
+      "parentCls": ""
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Talab etilgan qiymat:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Утверждения (Да/Нет)",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Min. ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "0",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Baholash mezoni:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Экспертная",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Zaruriyligi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Zarur",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Maks.ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Solishtirma og‘irlik:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "8.33",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Batafsil maʼlumot:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1 Shakl - Ariza",
+      "parentTag": "DIV",
+      "parentCls": "col"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Talab etilgan qiymat:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Утверждения (Да/Нет)",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Min. ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "0",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Baholash mezoni:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Экспертная",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Zaruriyligi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Zarur",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Maks.ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Solishtirma og‘irlik:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "8.33",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Batafsil maʼlumot:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Tanlash ishtirokchisi tashkilotning davlat ro'yxatidan o'tkazilganligi to'g'risidagi guvohnoma.",
+      "parentTag": "DIV",
+      "parentCls": "col"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Talab etilgan qiymat:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Утверждения (Да/Нет)",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Min. ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "0",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Baholash mezoni:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Экспертная",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Zaruriyligi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Zarur",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Maks.ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Solishtirma og‘irlik:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "8.33",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Batafsil maʼlumot:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "2 Shakl-Kafolat xati",
+      "parentTag": "DIV",
+      "parentCls": "col"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Talab etilgan qiymat:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Утверждения (Да/Нет)",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Min. ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "0",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Baholash mezoni:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Экспертная",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Zaruriyligi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Zarur",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Maks.ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Solishtirma og‘irlik:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "8.33",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Batafsil maʼlumot:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "3 Shakl - Ishtirokchi haqida umumiy ma'lumot",
+      "parentTag": "DIV",
+      "parentCls": "col"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Talab etilgan qiymat:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Утверждения (Да/Нет)",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Min. ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "0",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Baholash mezoni:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Экспертная",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Zaruriyligi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Zarur",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Maks.ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Solishtirma og‘irlik:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "8.33",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Batafsil maʼlumot:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "4 Shakl va ilovalar - Ishtirokchining moliyaviy ahvoli to'g'risida ma'lumot",
+      "parentTag": "DIV",
+      "parentCls": "col"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Talab etilgan qiymat:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Текстовое значение",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Min. ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "0",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Baholash mezoni:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Экспертная",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Zaruriyligi:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "Zarur",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Maks.ball:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "1",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    },
+    {
+      "tag": "H6",
+      "cls": "",
+      "directText": "Solishtirma og‘irlik:",
+      "nextSibTag": "P",
+      "nextSibCls": "",
+      "nextSibText": "8.33",
+      "parentTag": "DIV",
+      "parentCls": "mb-4"
+    }
+  ],
+  "tabPanes": [
+    {
+      "id": "lot-details-tab-content-1",
+      "cls": "tab-pane fade show active",
+      "active": true,
+      "htmlLen": 11244,
+      "htmlPreview": "<div _ngcontent-pjn-c4=\"\" class=\"lot__info__info\"><div _ngcontent-pjn-c4=\"\" class=\"mb-4\"><div _ngcontent-pjn-c4=\"\" class=\"row mb-3 mb-md-0\"><div _ngcontent-pjn-c4=\"\" class=\"col-md-5 text-md-right\"><p _ngcontent-pjn-c4=\"\">Buyurtmachi STIRi:</p></div><div _ngcontent-pjn-c4=\"\" class=\"col-md-7 \"><p _ngcontent-pjn-c4=\"\"><!----><strong _ngcontent-pjn-c4=\"\">202007734</strong></p></div></div><div _ngcontent-pjn-c4=\"\" class=\"row mb-3 mb-md-0\"><div _ngcontent-pjn-c4=\"\" class=\"col-md-5 text-md-right\"><p _n"
+    },
+    {
+      "id": "lot-details-tab-content-6",
+      "cls": "tab-pane fade",
+      "active": false,
+      "htmlLen": 3804,
+      "htmlPreview": "<div _ngcontent-pjn-c4=\"\" style=\"max-width: 100%\"><div _ngcontent-pjn-c4=\"\" style=\"margin-bottom: 30px; border-bottom: 1px solid lightgray\"><h4 _ngcontent-pjn-c4=\"\">Malaka talablari</h4></div><div _ngcontent-pjn-c4=\"\" class=\"lot__products__item__table-wrap \"><table _ngcontent-pjn-c4=\"\" class=\"table custom-table-dark--2 \"><thead _ngcontent-pjn-c4=\"\" class=\"thead-dark\"><tr _ngcontent-pjn-c4=\"\"><th _ngcontent-pjn-c4=\"\" class=\"text-center\" style=\"vertical-align: middle; width: 80px;\"> № </th><th _ng"
+    },
+    {
+      "id": "lot-details-tab-content-3",
+      "cls": "tab-pane fade",
+      "active": false,
+      "htmlLen": 22489,
+      "htmlPreview": "<!----><div _ngcontent-pjn-c4=\"\"><div _ngcontent-pjn-c4=\"\" class=\"row\"><div _ngcontent-pjn-c4=\"\" class=\"col\"><div _ngcontent-pjn-c4=\"\" class=\"col\"><h5 _ngcontent-pjn-c4=\"\" class=\"mb-4 pb-2\">1. Давлат буюртмачисининг ходимларини бажарилган ишлар ва кўрсатилган хизматлар юзасидан ижрочи томонидан техник ўқитиш бўйича талаблар</h5><!----><h5 _ngcontent-pjn-c4=\"\" class=\"text-primary border-bottom pb-3 mb-4\"> Buyurtmachi tavsifiga ko‘ra </h5><div _ngcontent-pjn-c4=\"\" class=\"row\"><div _ngcontent-pjn-c"
+    },
+    {
+      "id": "lot-details-tab-content-4",
+      "cls": "tab-pane fade",
+      "active": false,
+      "htmlLen": 13480,
+      "htmlPreview": "<div _ngcontent-pjn-c4=\"\"><div _ngcontent-pjn-c4=\"\" class=\"row\"><table _ngcontent-pjn-c4=\"\" class=\"table\"><thead _ngcontent-pjn-c4=\"\"><tr _ngcontent-pjn-c4=\"\"><th _ngcontent-pjn-c4=\"\">№</th><th _ngcontent-pjn-c4=\"\">Nomi</th><th _ngcontent-pjn-c4=\"\">Talab etilgan qiymat</th><th _ngcontent-pjn-c4=\"\">Мин.-Maks.ball</th><th _ngcontent-pjn-c4=\"\">Zaruriyligi</th><th _ngcontent-pjn-c4=\"\">Solishtirma og‘irlik</th><th _ngcontent-pjn-c4=\"\">Batafsil maʼlumot</th><th _ngcontent-pjn-c4=\"\"></th><th _ngcontent"
+    },
+    {
+      "id": "lot-details-tab-content-5",
+      "cls": "tab-pane fade",
+      "active": false,
+      "htmlLen": 46,
+      "htmlPreview": "<div _ngcontent-pjn-c4=\"\"><!----><!----></div>"
+    }
+  ],
+  "bodyText": "O‘ZBEKISTON RESPUBLIKA TOVAR-XOM ASHYO BIRJASI\n Kal'kulyator\nРу\nЎз\nEn\nO'z\n+998 71 207 00 33 / 1162\n24/7 Yordam kerakmi?\nFAOL LOTLAR\nTANLOV VMQ №69\nSAVDOLAR\nINTERAKTIV XIZMATLAR\nTIZIMDAGI YANGILIKLAR\n Kirish\nRo‘yxatdan o‘tish\nTender №:\n26110012484088\nValyuta\n\nTugashiga qoldi:\n\n9\n9\n0\n0\n0\n0\n5\n5\n9\n9\n0\n0\n0\n0\n6\n6\n9\n9\n0\n0\n0\n0\n6\n6\n3\n3\n2\n2\n0\n0\n9\n9\n\nBoshlanish sanasi:\n\n04-05-2026 15:48\n\nTugash sanasi:\n\n21-05-2026 15:48\n\nJami boshlang‘ich narx:\n\n1,813,000,000 UZS\n\nЛотнинг бошланғич нархи UZSда белгиланган!\n\nBoshlang‘ich narx Markaziy bankning 16.05.2026 kursida konvertatsiya qilingan\nLot imtiyozga ega\n1 - Услуга, связанная с выращиванием сельскохозяйственных культур\nTovarlar soni\tO‘lchov birligi\tXususiyatlar\tToifa\tBirlik uchun boshlang‘ich narx\tUmumiy summasi\tYaroqlilik muddati\tYetkazib berish muddati\n1000000\t\n\nусл. ед\n\n\t\n\nВид расчета: Безналичный\n\nНаличие поэтапной оплаты: Да\n\nПериодичность: Однократно\n\n\tПродукция и услуги сельского хозяйства и охоты\t1,813 UZS\t1,813,000,000 UZS\t1 Год (лет)\t60 Kun\n\nOy: Aprel\n\nBatafsil maʼlumot: Лот №2 \"In vitro\" texnologiyasidan foydalangan holda ishlab chiqarilgan kartoshkaning mini-tuganak / Мини-клубни картофеля, произведённого по технологии «in vitro»\n\nLot haqida maʼlumot\nMalaka talablari\nTexnik talablar\nKalkulyator\n\nBuyurtmachi STIRi:\n\n202007734\n\nBuyurtmachi nomi:\n\nКишлок хужалигида билим ва инновациялар миллий маркази\n\nRasmiylashtirish tartibi:\n\nTender\n\nTakliflarni baholash mezoni:\n\nEng past narx usuli\n\nIshtirokchilarning takliflarini ko‘rib chiqish tartibi:\n\nElektron ko'rinishda\n\nZakalat:\n\nZakalat talab etiladi\n\nKafolat xati:\n\nQabul qilmaydi\n\nZakalat miqdori:\n\n1%\n\nAvans to‘lovi miqdori:\n\n15%\n\nZaklad summasini yechish:\n\nIshlar bajarilgandan so‘ng blokdan chiqarish\n\nTo‘lov tartibi:\n\nOldindan to'lov\n\nJoylashtirish muddati:\n\n12 kunda\n\nOchilish sanasi:\n\nMay 21, 2026\n\nTo‘lov muddati (to‘liq to‘lov):\n\n60 bank. kuni\n\nBuyurtmachi manzili:\n\nToshkent shahri, Toshkent shahri , Тошкент вилояти, Кибрай тумани, Университет кўчаси 2 уй\n\nYetkazib berish manzili:\n\nТашкентская область, Юкоричирчикский район , Axmad Yasavviy MFY, Sh\n\nBelgilangan tillar :\n\nРусский Узбекский К Английский Узбекский\n\nHolat:\n\nEʼlon qilindi\n\nMoliyalashtirish manbai:\n\nQo‘shimcha maʼlumotlar:\n\nIshtirokchilar quyidagi shartlarga javob bergan taqdirda qabul qilinadi: - shartnoma tuzish huquqi; - soliq va yig'imlarni to'lash bo'yicha muddati o'tgan qarzning yo'qligi; - ularga nisbatan joriy qilingan to'lovga layoqatsiz tartib-qoidalarning yo'qligi; - vijdonsiz Bajaruvchilarning yagona reestrida ular to'g'risidagi yozuvning yo'qligi; - O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosi ma’lumotlar bazasida sud qarorlari bo‘yicha ishtirokchining bajarilmagan majburiyatlari mavjud emasligi. Ishtirokchi arizada unga nisbatan to‘lovga layoqatsizligi to‘g‘risidagi ish qo‘zg‘atilmaganligini, soliq va yig‘imlarni to‘lash bo‘yicha muddati o‘tgan qarzi yo‘qligini tasdiqlaydi.\n\nTexnik tavsif:\n\nTexnik topshirik, tanlov hujjati uzbek tili va rus tilida qo'shimcha ma'lumotlar\n\nMin. o‘tish ball:\n\n12\n\nKo‘rishlar soni:\n\n7 / 404\n\nAloqa raqami:\n\n901689028\nAlohida shartlar\n\n-\n\nAloqa uchun\nF.I.Sh\tLavozimi\nIvanov Valentin NIkolayevich\tXarid komissiyasi ishchi organ\nYuklab olish uchun fayllar:\nTex. topshiriq va ekspertiza xulosasi\nTexnik hujjatlar\nBayonnomalar\nShartnomalar\nTexnik topshiriq\nFayl nomi: 202604145755167370.pdf\nHajmi: 2.24 mb, Tipi: PDF\nYuklab olish\n\nTanlash hujjati xarid komissiyasi tomonidan ERI yordamida tasdiqlangan\n\nPortaldan qanday foydalanish mumkin?\nBuyurtmachi uchun qo‘llanma\nIshtirokchi uchun qo‘llanma\nRo'yxatdan o'tish bo'yicha qo'llanma\nNorezidentlar uchun ro'yxatdan o'tish bo'yicha ko'rsatmalar\nTexnik yordam\n+998 71 207-00-33\nElektron pochta\ninfo@rtsb.uz\nO‘zbekiston Respublika tovar-xom ashyo birjasi\nManzil:100090, O‘zbekiston Respublikasi, Toshkent sh., Bobur k. 77\nTel: (71) 207-00-33 E-mail: info@rtsb.uz\n\n\n\nBank AJ 'Trastbank'\n\nMFO 00491\n\nSTIR 200933985\n\nX/R 20208000900600257053 so'm\n\n\nBank 'Octobank' AJ ('Ravnaq-b"
+}

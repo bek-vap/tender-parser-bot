@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "../../Новая папка/Tender-Project"
+		},
+		{
+			"path": "../backend"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../data"
+		},
+		{
+			"path": "../frontend"
+		},
+		{
+			"path": "../init.sql"
+		},
+		{
+			"path": "../logs"
+		},
+		{
+			"path": "../prisma"
+		},
+		{
+			"path": "../scripts"
+		}
+	],
+	"settings": {}
+}

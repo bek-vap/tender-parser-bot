@@ -1,0 +1,47 @@
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Tender {
+  id         String   @id @default(uuid())
+  externalId String   @unique // ID from source site
+  title      String
+  amount     Decimal?
+  region     String?
+  source     String   // e.g., 'etender.uzex.uz'
+  keywordId  String?
+  keyword    Keyword? @relation(fields: [keywordId], references: [id])
+  companyId  String?
+  company    Company? @relation(fields: [companyId], references: [id])
+  hash       String   @unique // SHA‑256 of title+externalId for deduplication
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}
+
+model Company {
+  id       String   @id @default(uuid())
+  name     String
+  stir     String?   // Uzbek tax ID (STIR) or INN equivalent
+  contacts String?
+  website  String?
+  tenders  Tender[]
+}
+
+model Keyword {
+  id      String   @id @default(uuid())
+  word    String   @unique
+  tenders Tender[]
+}
+
+model Log {
+  id        String   @id @default(uuid())
+  tenderId  String?
+  status    String   // e.g., 'queued', 'scraped', 'error'
+  message   String?
+  createdAt DateTime @default(now())
+}

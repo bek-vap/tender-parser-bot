@@ -1,0 +1,343 @@
+{
+  "id": 488000,
+  "display_no": "26120012488000",
+  "start_date": "2026-05-14T17:30:26",
+  "end_date": "2026-05-21T17:30:26",
+  "clarific_date": "2026-05-21T17:30:26",
+  "start_cost": 1906337095.0,
+  "valuation_id": 1,
+  "valuation_name": "Eng past narx usuli",
+  "products": null,
+  "budget_products": "[{\"Id\":1894292,\"Order_Num\":1,\"Category_Id\":126334,\"Category_Name\":\"Услуги в области информационных технологий\",\"Plangraph_Detail_Id\":21884660,\"Product_Id\":448648,\"Product_Name\":\"Услуга по сопровождению, техническому обеспечению и развитию информационно-коммуникационных технологий\",\"Product_Type_Id\":3,\"Quantity\":1,\"Price\":1906337095,\"Cost\":1906337095,\"Description\":\"Kontakt markazi dasturiy-apparat kompleksiga muhandislik qo‘llab-quvvatlash xizmatlarini hamda ishlab chiqaruvchi Smiddle tomonidan taqdim etiladigan texnik qo‘llab-quvvatlash xizmatlaridan foydalanish huquqini ta’minlash bo‘yicha xizmatlarni xarid qilish\",\"Expenditure_Id\":0,\"Expenditure_Name\":\"Итого расходов\",\"Plan_Id\":8746374,\"Plan_Position_Id\":0,\"Month_Id\":5,\"Month_Name\":\"May\",\"Product_Code\":\"63.99.10.190-00005\",\"Guarantee_Term\":12,\"Delivery_Term\":365,\"Term_Period_Name\":\"Месяцев\",\"Term_Period_Id\":2,\"Js_Properties\":[{\"Property_Name\":\"Единица измерения\",\"User_Value\":\"усл.ед\",\"User_Value_Id\":0,\"Pnum\":0}],\"Js_Additional_Expenses\":null,\"Is_File_Required\":null,\"File_Name\":null,\"File_Path\":null,\"Price_Per_Unit\":0}]",
+  "consider": null,
+  "consider_procedure": "Elektron ko'rinishda",
+  "description": null,
+  "pledge_name": "Zakalat talab etiladi",
+  "pledge_value": 1.0,
+  "advance_payment_perc": 30.0,
+  "term_payment_days": 10,
+  "term_online_days": 5,
+  "type_name": "Eng yaxshi takliflarni tanlash",
+  "status_id": 6,
+  "status_name": "Takliflarni qabul qilish muddati tugatildi",
+  "languages": "[{\"Id\":1,\"Name\":\"Русский\"},{\"Id\":2,\"Name\":\"Узбекский\"}]",
+  "contacts": "[{\"Job_title\":\"Xaridlarni amalga oshirish xizmati\",\"Fullname\":\"Sh.Niyazov\"}]",
+  "rest_time": 0,
+  "customer_name": "O'Z SQB ATB",
+  "customer_tin": "200833707",
+  "payment_type_name": "Oldindan to'lov",
+  "tech_file_name": "202605080206163535.pdf",
+  "tech_file_path": "/files/2026/5/8/202605080206163535.pdf",
+  "tech_file_ext": "PDF",
+  "tech_file_sizes": 247928.0,
+  "tech_doc_file_name": "202605080206406960.pdf",
+  "tech_doc_file_path": "tender/user-files/2026/5/8/202605080206406960.pdf",
+  "tech_doc_file_ext": "PDF",
+  "tech_doc_file_sizes": 123037.0,
+  "add_file_name": null,
+  "add_file_path": null,
+  "add_file_ext": null,
+  "contract_proform_file_name": "202605080206234562.docx",
+  "contract_proform_file_path": "/files/2026/5/8/202605080206234562.docx",
+  "contract_proform_file_ext": "DOCX",
+  "contract_proform_file_sizes": 69267.0,
+  "contract_file_name": null,
+  "contract_file_path": null,
+  "contract_file_ext": null,
+  "contract_file_sizes": null,
+  "contract_file_date": null,
+  "expertise_file_name": null,
+  "expertise_file_path": null,
+  "expertise_file_ext": null,
+  "expertise_file_sizes": null,
+  "tax_type_id": 1,
+  "block_pledge_type": "Shartnoma tuzilgandan keyin blokdan chiqarish",
+  "authorized_count": 18,
+  "nonauthorized_count": 2122,
+  "deal_status": null,
+  "deal_rejected_file_path": null,
+  "deal_rejected_file_date": null,
+  "js_fields": [
+    {
+      "id": 2626911,
+      "type_name": "TEXT_STRING",
+      "label_type_name": "Текстовое значение",
+      "label": "Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги",
+      "min_score": 0.0,
+      "max_score": 5.0,
+      "is_required": true,
+      "is_file_required": true,
+      "file_name": "Kafolat xati 4-shakl",
+      "rate_id": null,
+      "rate_name": "Экспертная",
+      "attributes": {
+        "type_name": null,
+        "value": null,
+        "min_value": null,
+        "max_value": null,
+        "unit_cl_id": null,
+        "unit_cl_value_name": null
+      },
+      "control": {
+        "id": null,
+        "display_name": null,
+        "type_name": null,
+        "yes_text": null,
+        "no_text": null
+      },
+      "gravity": 50.0,
+      "description": "Ishtirokchi texnik topshiriq va tanlash hujjatlari bilan tanishganligi, agar g‘olib deb aniqlangan taqdirda ularni bajarishga roziligi to‘g‘risida kafolat xati - Kafolat xati 4-shaklga muvofiq rasmiylashtirilishi lozim. \r\nAgar ishtirokchi texnik topshiriq va tanlash hujjatlari bilan tanishganligi, agar g‘olib deb aniqlangan taqdirda ularni bajarishga roziligini bildirmasa yoki talabga mos kelmagan hujjat taqdim etilganda ishtirokchi\r\n0 ball bilan baholanadi\r\n",
+      "form_option_attribute_name": null,
+      "min_value": null,
+      "max_value": null,
+      "t_value": null,
+      "secretary_note": null,
+      "user_file": null,
+      "js_user_criteria": null,
+      "user_criteria": [
+        {
+          "field_id": null,
+          "value": 0.0,
+          "description": "Мин. балл критерию"
+        },
+        {
+          "field_id": null,
+          "value": 5.0,
+          "description": "Макс. балл по критерию"
+        }
+      ],
+      "form_name": "Shakl 4",
+      "form_file_path": "tender/user-files/2026/5/8/f2904651-e097-4bdf-bbb6-5c0a08e5e210.docx"
+    },
+    {
+      "id": 2626912,
+      "type_name": "TEXT_STRING",
+      "label_type_name": "Текстовое значение",
+      "label": "Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари",
+      "min_score": 0.0,
+      "max_score": 5.0,
+      "is_required": true,
+      "is_file_required": true,
+      "file_name": "Ishlab chiqaruvchi yoki uning mintaqaviy bo‘linmasi tomonidan berilgan, buyurtmachi mamlakatida bevosita faoliyat yuritish vakolatini tasdiqlovchi tegishli avtorizatsiya hujjatining asl nusxasi yoki nusxasi. ",
+      "rate_id": null,
+      "rate_name": "Экспертная",
+      "attributes": {
+        "type_name": null,
+        "value": null,
+        "min_value": null,
+        "max_value": null,
+        "unit_cl_id": null,
+        "unit_cl_value_name": null
+      },
+      "control": {
+        "id": null,
+        "display_name": null,
+        "type_name": null,
+        "yes_text": null,
+        "no_text": null
+      },
+      "gravity": 50.0,
+      "description": "Smiddle ishlab chiqaruvchi yoki uning mintaqaviy bo‘linmasi tomonidan berilgan, Buyurtmachi mamlakatida bevosita faoliyat yuritish vakolatini tasdiqlovchi tegishli avtorizatsiya hujjatining asl nusxasi yoki nusxasining mavjudligi - Tasdiqlovchi hujjat.\r\n Ishlab chiqaruvchi yoki uning mintaqaviy bo‘linmasi tomonidan berilgan, buyurtmachi mamlakatida\r\nbevosita faoliyat yuritish vakolatini tasdiqlovchi tegishli avtorizatsiya hujjatining asl nusxasi yoki nusxasi. \r\nTalabga mos kelmagan hujjat taqdim etilganda ishtirokchi \r\n0 ball bilan baholanadi\r\n",
+      "form_option_attribute_name": null,
+      "min_value": null,
+      "max_value": null,
+      "t_value": null,
+      "secretary_note": null,
+      "user_file": null,
+      "js_user_criteria": null,
+      "user_criteria": [
+        {
+          "field_id": null,
+          "value": 0.0,
+          "description": "Мин. балл критерию"
+        },
+        {
+          "field_id": null,
+          "value": 5.0,
+          "description": "Макс. балл по критерию"
+        }
+      ],
+      "form_name": null,
+      "form_file_path": null
+    }
+  ],
+  "fields": "[{\"Id\":2626911,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ишларни бажариш ва хизматларни кўрсатиш шартлари: Техник топшириқда назарда тутилган хажм, техник параметрлар ва талабларига мувофиқлиги\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Kafolat xati 4-shakl\",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Ishtirokchi texnik topshiriq va tanlash hujjatlari bilan tanishganligi, agar g‘olib deb aniqlangan taqdirda ularni bajarishga roziligi to‘g‘risida kafolat xati - Kafolat xati 4-shaklga muvofiq rasmiylashtirilishi lozim. \\r\\nAgar ishtirokchi texnik topshiriq va tanlash hujjatlari bilan tanishganligi, agar g‘olib deb aniqlangan taqdirda ularni bajarishga roziligini bildirmasa yoki talabga mos kelmagan hujjat taqdim etilganda ishtirokchi\\r\\n0 ball bilan baholanadi\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":\"Shakl 4\",\"Form_File_Path\":\"tender/user-files/2026/5/8/f2904651-e097-4bdf-bbb6-5c0a08e5e210.docx\"},{\"Id\":2626912,\"Type_Name\":\"TEXT_STRING\",\"Label_Type_Name\":\"Текстовое значение\",\"Label\":\"Ижрочи томонидан ишларни бажариш ва хизматларни кўрсатиш бўйича мажбуриятларни бажариш асносида юзага келган интеллектуал мулк объектларига нисбатан мутлақ ҳуқуқларни давлат буюртмачисига топшириш шартларини кўрсатган ҳолда муаллифлик ҳуқуқлари\",\"Min_Score\":0.0,\"Max_Score\":5.0,\"Is_Required\":true,\"Is_File_Required\":true,\"File_Name\":\"Ishlab chiqaruvchi yoki uning mintaqaviy bo‘linmasi tomonidan berilgan, buyurtmachi mamlakatida bevosita faoliyat yuritish vakolatini tasdiqlovchi tegishli avtorizatsiya hujjatining asl nusxasi yoki nusxasi. \",\"Rate_Id\":null,\"Rate_Name\":\"Экспертная\",\"Attributes\":{\"Type_name\":null,\"Value\":null,\"Min_value\":null,\"Max_value\":null,\"Unit_cl_id\":null,\"Unit_cl_value_name\":null},\"Control\":{\"Id\":null,\"Display_name\":null,\"Type_name\":null,\"Yes_text\":null,\"No_text\":null},\"Gravity\":50.0,\"Description\":\"Smiddle ishlab chiqaruvchi yoki uning mintaqaviy bo‘linmasi tomonidan berilgan, Buyurtmachi mamlakatida bevosita faoliyat yuritish vakolatini tasdiqlovchi tegishli avtorizatsiya hujjatining asl nusxasi yoki nusxasining mavjudligi - Tasdiqlovchi hujjat.\\r\\n Ishlab chiqaruvchi yoki uning mintaqaviy bo‘linmasi tomonidan berilgan, buyurtmachi mamlakatida\\r\\nbevosita faoliyat yuritish vakolatini tasdiqlovchi tegishli avtorizatsiya hujjatining asl nusxasi yoki nusxasi. \\r\\nTalabga mos kelmagan hujjat taqdim etilganda ishtirokchi \\r\\n0 ball bilan baholanadi\\r\\n\",\"Form_Option_Attribute_Name\":null,\"Min_Value\":null,\"Max_Value\":null,\"TValue\":null,\"Secretary_Note\":null,\"User_File\":null,\"Js_User_Criteria\":null,\"User_Criteria\":[{\"Field_Id\":null,\"Value\":0.0,\"Description\":\"Мин. балл критерию\"},{\"Field_Id\":null,\"Value\":5.0,\"Description\":\"Макс. балл по критерию\"}],\"Form_Name\":null,\"Form_File_Path\":null}]",
+  "js_qualification_fields": [
+    {
+      "id": 922635,
+      "name": "Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.",
+      "order_num": 1,
+      "description": "Shakl №1 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). ",
+      "file_path": "tender/user-files/2026/5/8/3656ac9d-7c10-49e2-b45e-7e7d44264634.docx",
+      "file": null,
+      "is_disq": null
+    },
+    {
+      "id": 922636,
+      "name": "Шартнома тузиш учун қонуний ҳуқуққа эгалик.",
+      "order_num": 2,
+      "description": "Tashkilotning davlat ro‘yxatidan o‘tganligini tasdiqlovchi guvohnoma nusxasi",
+      "file_path": null,
+      "file": null,
+      "is_disq": null
+    },
+    {
+      "id": 922637,
+      "name": "Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.",
+      "order_num": 3,
+      "description": "Rezidentlar yuridik shaxslar uchun davlat soliq organining muddati o‘tgan soliqlar va boshqa majburiy to‘lovlar bo‘yicha qarzdorligi mavjud emasligi to‘g‘risida ma’lumotnomasi. \r\nNorezident xorijiy yuridik shaxslar uchun tegishli vakolitli organning soliqlar va boshqa majburiy to‘lovlar bo‘yicha qarzdorligi mavjud emasligi to‘g‘risida ma’lumotnomasi.\r\n",
+      "file_path": null,
+      "file": null,
+      "is_disq": null
+    },
+    {
+      "id": 922638,
+      "name": "Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.",
+      "order_num": 4,
+      "description": "Shakl №2 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). Xar bir band to'liq to'ldirilishi va rasmiylashtirilishi lozim",
+      "file_path": "tender/user-files/2026/5/8/188aa664-8b7c-4236-9f96-5ecef83d610d.docx",
+      "file": null,
+      "is_disq": null
+    },
+    {
+      "id": 922639,
+      "name": "Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.",
+      "order_num": 5,
+      "description": "Shakl №2 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). Xar bir band to'liq to'ldirilishi va rasmiylashtirilishi lozim",
+      "file_path": "tender/user-files/2026/5/8/5ffa215b-10a2-4595-bf1b-f4fb801d3b1a.docx",
+      "file": null,
+      "is_disq": null
+    },
+    {
+      "id": 922640,
+      "name": "O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi",
+      "order_num": 6,
+      "description": "Majburiy ijro byurosining ma’lumotlar bazasidan (Mib.uz) skrinshot (ekran tasviri) taqdim etiladi.\r\nMajburiyatlar mavjud bo‘lsa ishtirokchi tanlashdan chetlatiladi\r\n",
+      "file_path": null,
+      "file": null,
+      "is_disq": null
+    },
+    {
+      "id": 922641,
+      "name": "Коррупция кўринишларига йўл қўймаслик бўйича ариза.",
+      "order_num": 7,
+      "description": "Shakl №3 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). Xar bir band to'liq to'ldirilishi va rasmiylashtirilishi lozim",
+      "file_path": "tender/user-files/2026/5/8/3f3a96d5-496c-4f02-9a4a-550a1adb6afb.docx",
+      "file": null,
+      "is_disq": null
+    }
+  ],
+  "qualification_fields": "[{\"Id\":922635,\"Name\":\"Шартномани бажариш учун зарур техник, молиявий, моддий, кадрлар ресурсларининг ҳамда бошқа ресурсларнинг мавжудлиги.\",\"Order_Num\":1,\"Description\":\"Shakl №1 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). \",\"File_Path\":\"tender/user-files/2026/5/8/3656ac9d-7c10-49e2-b45e-7e7d44264634.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":922636,\"Name\":\"Шартнома тузиш учун қонуний ҳуқуққа эгалик.\",\"Order_Num\":2,\"Description\":\"Tashkilotning davlat ro‘yxatidan o‘tganligini tasdiqlovchi guvohnoma nusxasi\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":922637,\"Name\":\"Солиқлар ва йиғимларни тўлаш бўйича муддати ўтган қарздорликнинг мавжуд эмаслиги.\",\"Order_Num\":3,\"Description\":\"Rezidentlar yuridik shaxslar uchun davlat soliq organining muddati o‘tgan soliqlar va boshqa majburiy to‘lovlar bo‘yicha qarzdorligi mavjud emasligi to‘g‘risida ma’lumotnomasi. \\r\\nNorezident xorijiy yuridik shaxslar uchun tegishli vakolitli organning soliqlar va boshqa majburiy to‘lovlar bo‘yicha qarzdorligi mavjud emasligi to‘g‘risida ma’lumotnomasi.\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":922638,\"Name\":\"Ўзига нисбатан жорий этилган банкротлик тартиб-таомилларининг мавжуд эмаслиги.\",\"Order_Num\":4,\"Description\":\"Shakl №2 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). Xar bir band to'liq to'ldirilishi va rasmiylashtirilishi lozim\",\"File_Path\":\"tender/user-files/2026/5/8/188aa664-8b7c-4236-9f96-5ecef83d610d.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":922639,\"Name\":\"Инсофсиз ижрочиларнинг ягона реестрида қайд этилмаганлиги.\",\"Order_Num\":5,\"Description\":\"Shakl №2 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). Xar bir band to'liq to'ldirilishi va rasmiylashtirilishi lozim\",\"File_Path\":\"tender/user-files/2026/5/8/5ffa215b-10a2-4595-bf1b-f4fb801d3b1a.docx\",\"File\":null,\"Is_Disq\":null},{\"Id\":922640,\"Name\":\"O‘zbekiston Respublikasi Bosh prokuraturasi huzuridagi Majburiy ijro byurosining ma’lumotlar bazalarida ishtirokchining sud qarorlari bo‘yicha bajarilmagan majburiyatlari mavjud emasligi\",\"Order_Num\":6,\"Description\":\"Majburiy ijro byurosining ma’lumotlar bazasidan (Mib.uz) skrinshot (ekran tasviri) taqdim etiladi.\\r\\nMajburiyatlar mavjud bo‘lsa ishtirokchi tanlashdan chetlatiladi\\r\\n\",\"File_Path\":null,\"File\":null,\"Is_Disq\":null},{\"Id\":922641,\"Name\":\"Коррупция кўринишларига йўл қўймаслик бўйича ариза.\",\"Order_Num\":7,\"Description\":\"Shakl №3 ga muvofiq kafolat xati taqdim etilishi lozim.(shakl xarid hujjatining 1-ilovasida mavjud). Xar bir band to'liq to'ldirilishi va rasmiylashtirilishi lozim\",\"File_Path\":\"tender/user-files/2026/5/8/3f3a96d5-496c-4f02-9a4a-550a1adb6afb.docx\",\"File\":null,\"Is_Disq\":null}]",
+  "is_local_manufacturs": true,
+  "seller_id": 18800,
+  "user_bid_status": 1,
+  "bid_date": null,
+  "bid_id": null,
+  "delivering_region_name": "город Ташкент",
+  "delivering_district_name": "Шайхантахурский район",
+  "delivering_address": "Islom Karimov ko‘chasi, 3A-uy (+99878-777-77-55, Ички рақам 7054)",
+  "delivering_phone": "787777755",
+  "addon_description": null,
+  "technical_description": "Xarid hujjatlari",
+  "tech_coef": 0.0,
+  "cost_coef": 100.0,
+  "old_id": null,
+  "customer_region_name": "Toshkent shahri",
+  "customer_district_name": "Toshkent shahri",
+  "customer_street": "Олмазор МФЙ, Ислом Каримов кўчаси, 3а-уй",
+  "customer_zip": "100090",
+  "min_point": 10,
+  "financing_source": "Buyurtmachi o‘z mablag‘lari",
+  "currency_id": 106,
+  "currency_name": "So'm",
+  "currency_code123": "860",
+  "currency_codeabc": "UZS",
+  "is_prolonged": false,
+  "prolong_date": null,
+  "prolonged_days": null,
+  "prolong_file_name": null,
+  "prolong_file_path": null,
+  "prolong_file_ext": null,
+  "prolong_file_sizes": null,
+  "protocol_file_name": null,
+  "protocol_file_path": null,
+  "protocol_file_ext": null,
+  "protocol_file_sizes": null,
+  "conclusion_file_name": null,
+  "conclusion_file_path": null,
+  "conclusion_file_ext": null,
+  "conclusion_file_sizes": null,
+  "additional_protocol_file_name": null,
+  "additional_protocol_file_path": null,
+  "additional_protocol_file_ext": null,
+  "additional_protocol_file_sizes": null,
+  "additional_agreement_file_name": null,
+  "additional_agreement_file_path": null,
+  "additional_agreement_file_ext": null,
+  "additional_agreement_file_sizes": null,
+  "deal_additional_file_name": null,
+  "deal_additional_file_path": null,
+  "deal_additional_file_ext": null,
+  "deal_additional_file_sizes": null,
+  "agreement_additional_file_name": null,
+  "agreement_additional_file_path": null,
+  "agreement_additional_file_ext": null,
+  "agreement_additional_file_sizes": null,
+  "archived_files": null,
+  "is_bank_guarantee": 0,
+  "participant_type_id": null,
+  "is_solar": 0,
+  "has_benefits": 0,
+  "has_qualification_fields": 1,
+  "proposal_converted_costs": [
+    {
+      "currency_id": 15,
+      "proposal_converted_cost": 137135.01,
+      "converted_prices": [
+        {
+          "lot_detail_id": 1894292,
+          "converted_price": 137135.01,
+          "converted_cost": 137135.01
+        }
+      ]
+    },
+    {
+      "currency_id": 14,
+      "proposal_converted_cost": 159131.41,
+      "converted_prices": [
+        {
+          "lot_detail_id": 1894292,
+          "converted_price": 159131.41,
+          "converted_cost": 159131.41
+        }
+      ]
+    },
+    {
+      "currency_id": 20,
+      "proposal_converted_cost": 11379758.2,
+      "converted_prices": [
+        {
+          "lot_detail_id": 1894292,
+          "converted_price": 11379758.2,
+          "converted_cost": 11379758.2
+        }
+      ]
+    },
+    {
+      "currency_id": 106,
+      "proposal_converted_cost": 1906337095.0,
+      "converted_prices": [
+        {
+          "lot_detail_id": 1894292,
+          "converted_price": 1906337095.0,
+          "converted_cost": 1906337095.0
+        }
+      ]
+    }
+  ],
+  "additional_expenses": null,
+  "branch_name": null,
+  "can_send_objections": null,
+  "can_have_project_discussion": 1,
+  "incoterms": null
+}

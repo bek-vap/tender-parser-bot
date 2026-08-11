@@ -1,0 +1,1217 @@
+[
+  {
+    "tag": "DIV",
+    "class": "q-field__label no-pointer-events absolute ellipsis",
+    "text": "Lot raqami yoki mol-mulk nomi"
+  },
+  {
+    "tag": "LABEL",
+    "class": "cursor-pointer font-16 q-ml-sm",
+    "text": "Izlash"
+  },
+  {
+    "tag": "LABEL",
+    "class": "cursor-pointer",
+    "text": "Demo"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__label",
+    "text": "O`z"
+  },
+  {
+    "tag": "LABEL",
+    "class": "ea-reg-title",
+    "text": "Ro`yxatdan o`tish"
+  },
+  {
+    "tag": "LABEL",
+    "class": "ea-reg-title",
+    "text": "Kirish"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Lotlar"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Yordam"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Savdo haqida"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Preferensiyalar"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Interaktiv xizmatlar"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Korporativ boshqaruv"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Yangiliklar"
+  },
+  {
+    "tag": "SPAN",
+    "class": "block",
+    "text": "Bog‘lanish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-field__label no-pointer-events absolute ellipsis",
+    "text": "Lot raqami yoki mol-mulk nomi"
+  },
+  {
+    "tag": "LABEL",
+    "class": "cursor-pointer font-16 q-ml-sm",
+    "text": "Izlash"
+  },
+  {
+    "tag": "DIV",
+    "class": "text-grey date-section-header",
+    "text": "22.05.2026 (GMT+5)"
+  },
+  {
+    "tag": "LABEL",
+    "class": "footer-btn-label",
+    "text": "Asosiy"
+  },
+  {
+    "tag": "LABEL",
+    "class": "footer-btn-label",
+    "text": "Ro`yxatdan o`tish"
+  },
+  {
+    "tag": "LABEL",
+    "class": "footer-btn-label",
+    "text": "Kirish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-field__label no-pointer-events absolute ellipsis",
+    "text": "Sayt bo‘yicha qidiruv"
+  },
+  {
+    "tag": "LABEL",
+    "class": "q-ml-sm cursor-pointer ea-search-btn-label",
+    "text": "Izlash"
+  },
+  {
+    "tag": "H6",
+    "class": "q-ma-none",
+    "text": "Portal xaritasi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm font-16 q-item__section--main justify-center",
+    "text": "Yordam"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ro‘yxatdan qanday o‘tiladi?"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Shaxsiy hisob qanday to‘ldiriladi?"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Shaxsiy hisobdan pul qanday qaytariladi?"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Lotga qanday ariza beriladi?"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "G‘oliblik bayonnomasi qanday tekshiriladi?"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Loginimni qanday aniqlasam bo`ladi?"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Loginimni qanday o‘zgartirsam bo`ladi?"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Yerga qanday ovoz beriladi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "QR-kod orqali kabinetga kirish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ko‘p beriladigan savollar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm font-16 q-item__section--main justify-center",
+    "text": "Savdo haqida"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Auksion faoliyati to‘g‘risida"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Savdo o‘tkazish qoidalari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Me’yoriy-huquqiy hujjatlar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Savdoda qatnashish ofertalari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "ERIdan  foydalanish bo`yicha oferta"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Maxfiylik siyosati"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm font-16 q-item__section--main justify-center",
+    "text": "Interaktiv xizmatlar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Bayonnomani tekshirish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ijara shartnomasini tekshirish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "ERI kalit parolini olish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Loginni aniqlash"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Loginni almashtirish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Nohalol ishtirokchini tekshirish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Sertifikatlar reestri"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Undiruvchi mulklari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Portal xaritasi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Maʼlumotlar lugʼati"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Yer uchastkasini master-reja asosida savdoga chiqarishga ovoz berish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm font-16 q-item__section--main justify-center",
+    "text": "Korporativ boshqaruv"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Jamiyat haqida"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm q-item__section--main justify-center",
+    "text": "Korporativ boshqaruv"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Kuzatuv kengashi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ijroiya organi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Direktor o‘rinbosarlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Boshqarma va bo‘limlar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Hududiy vakillar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Qo‘mitalar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ichki audit xizmati"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm q-item__section--main justify-center",
+    "text": "Ochiq ma’lumotlar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Tuzilma"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Jamiyat Ustavi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Qimmatli qog’ozlar chiqarilishi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Emitent hisobotlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Audit xulosasi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Buxgalteriya hisobining milliy standartlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Moliyaviy hisobotning xalqaro standartlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Muhim faktlar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Jamiyatning rivojlanish strategiyasi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Bo‘sh ish o‘rinlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Biznes-reja"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Samaradorlikning muhim koʻrsatkichlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Xizmat avtomototransport vositalari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Xizmat safari xarajaatlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Davlat xaridlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Xizmatlar ro'yxati"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Yer uchastkalari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Jamiyatni rivojlantirish dinamikasi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Affillangan shaxslar shartnomalari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ijroiya organiga to’langan bonuslar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm q-item__section--main justify-center",
+    "text": "Jamiyatning ichki hujjatlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Korporativ boshqaruv kodeksi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ichki nizomlar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-title q-py-sm q-item__section--main justify-center",
+    "text": "Aksiyadorlarga"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Ustav fondi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Affillangan shaxslar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Aksiyadorlar roʻyxati"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Dividendlar"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Aksiyadorlarning umumiy yig‘ilishi"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Aksiyalarni sotib olish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Korrupsiyaga qarshi kurashish"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "Monopoliyaga qarshi komplayens"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__section column left-menu-sub-title q-item__section--main justify-center",
+    "text": "ESG"
+  },
+  {
+    "tag": "SPAN",
+    "class": "q-breadcrumbs__el q-link flex inline items-center relative-position cursor-pointer",
+    "text": "Davlat aktivlari"
+  },
+  {
+    "tag": "SPAN",
+    "class": "q-breadcrumbs__el q-link flex inline items-center relative-position cursor-pointer",
+    "text": "Davlat ulushi"
+  },
+  {
+    "tag": "SPAN",
+    "class": "q-breadcrumbs__el q-link flex inline items-center relative-position",
+    "text": "23686628"
+  },
+  {
+    "tag": "DIV",
+    "class": "hooper-liveregion hooper-sr-only",
+    "text": "Item 1 of 60"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Lot №"
+  },
+  {
+    "tag": "DIV",
+    "class": "lot-card-number",
+    "text": "23686628"
+  },
+  {
+    "tag": "DIV",
+    "class": "lot-card-name-title",
+    "text": "«Тошкeнт экологик сeртификатлаштириш маркази» МЧЖ"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Arizalarni qabul qilishning oxirgi muddati:"
+  },
+  {
+    "tag": "DIV",
+    "class": "lot-card-attribute-value",
+    "text": "25.05.2026 09:00"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Savdo boshlanish vaqti:"
+  },
+  {
+    "tag": "DIV",
+    "class": "lot-card-attribute-value",
+    "text": "25.05.2026 10:00"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Boshlang‘ich narxi:"
+  },
+  {
+    "tag": "LABEL",
+    "class": "sale",
+    "text": "3 630 021 000.00  UZS"
+  },
+  {
+    "tag": "SPAN",
+    "class": "",
+    "text": "-70%"
+  },
+  {
+    "tag": "LABEL",
+    "class": "",
+    "text": "(5%)"
+  },
+  {
+    "tag": "DIV",
+    "class": "lot-card-attribute-value",
+    "text": "54 450 315.00 UZS"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Savdo o‘tkazish turi:"
+  },
+  {
+    "tag": "DIV",
+    "class": "",
+    "text": "Auksion"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Savdo o‘tkazish uslubi:"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Birinchi qadam bahosi(5%):"
+  },
+  {
+    "tag": "DIV",
+    "class": "lot-card-attribute-value",
+    "text": "54 450 315.00\n           UZS"
+  },
+  {
+    "tag": "SPAN",
+    "class": "material-icons-outlined",
+    "text": "location_on"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Manzil:"
+  },
+  {
+    "tag": "LABEL",
+    "class": "text-bold",
+    "text": "Toshkent sh., Chilonzor tumani, Бунёдкор кўчаси, 7-уй"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "Lot holati:"
+  },
+  {
+    "tag": "LABEL",
+    "class": "text-bold text-green-8",
+    "text": "Savdoda ishtirok etish uchun elektron arizalarni qabul qilish"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "1"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "408"
+  },
+  {
+    "tag": "P",
+    "class": "",
+    "text": "0"
+  },
+  {
+    "tag": "LABEL",
+    "class": "ea-card-installment bg-red",
+    "text": "Muddatli bo‘lib to‘lash"
+  },
+  {
+    "tag": "SPAN",
+    "class": "",
+    "text": "."
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__label",
+    "text": "Lot ma’lumotlari"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Balansda saqlovchi"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "“Toshkent ekologik sertifikatlashtirish markazi” MChJ"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Faoliyat turi"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Ekologik sertifikatlashtirish, standartlashtirish va me’yorlashtirish sohasida uslubiy va maslahat ishlarini amalga oshirish"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Boshqa majburiyatlar"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Xususiylashtirish uchun asos"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Asos"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Davlat aktivlarini boshqarish agentligi Toshkent shahar hududiy boshqarmasining 2021 yil 25 yanvardagi 9k-PO-son, 2024-yil 5-fevraldagi 31-son va 2025-yil 22-avgustdagi 196-son buyruqlari"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Binolar va inshootlarning egallagan umumiy maydoni (kv.m)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "mavjud emas"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Jamiyat STIR"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "203333163"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Ustav kapitali (mln so`m)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "971,82"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Jamiyatning ustav fondidagi davlat ulushi (%)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "100"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Jamiyatning ustav fondidagi sotiladigan davlat ulushi (%)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "100"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Yer uchastkasining egallagan umumiy maydoni (ga)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "mavjud emas"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Debitorlik qarzdorligi (mln so`m)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "450,971"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Asosiy fondlarning balans qiymati (mln so`m)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "476,958"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Asosiy fondlarning eskirishi (%)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "50,53"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Aylanma aktivlar (mln so`m)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "644,570"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Kreditorlik qarzdorligi (mln so`m)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "390,284"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Sof foyda (zarar) (+/- mln so`m)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "-43,867"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Ishchilarning o`rtacha yillik soni (kishi)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "13"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "shu jumladan qurilishi tugallanmagan"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "-"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Yaratilayotgan ish joylari (kamida)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "-"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Balansda saqlovchi STIR"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "203333163"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Hisob raqami (So'm)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "-"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Ustav fondidagi davlat ulushi (mln so'm)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "971,82"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Balansda saqlovchi manzili"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Toshkent shahri, Chilonzor tumani, Bunyodkor shox ko‘chasi, 7-uy"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Balansda saqlovchi F.I.O"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Axmedova Svetlana Germanovna"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Jamiyat nomi"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "“Toshkent ekologik sertifikatlashtirish markazi” MChJ"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Investitsiya turi (yoʻlga qoʻyiladigan faoliyat turi)"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "-"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Kiritilayotgan investitsiyalar miqdori"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Izoh"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Sotuvchining qo'shimcha majburiyatlari"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "mavjud emas"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Xaridorning qo'shimcha majburiyatlari"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "mavjud emas"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Balansda saqlovchining qo'shimcha majburiyatlari"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "mavjud emas"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Investitsion majburiyatlarni bajarish muddati (oylar)"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "To'lov muddati (oylarda)"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__label",
+    "text": "Mulk ma’lumotlari"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Mol-mulk turi"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Davlat aktivlari"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Mol-mulk toifasi"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Davlat ulushi"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Lot holati"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Savdoda ishtirok etish uchun elektron arizalarni qabul qilish"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Viloyat"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Toshkent sh."
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Tuman"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Chilonzor tumani"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Manzil"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Бунёдкор кўчаси, 7-уй"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Birinchi kun"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "15.05.2026 | 09:00 -\n        13:00"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Ikkinchi kun"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "18.05.2026 | 09:00 -\n        13:00"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Uchinchi kun"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "20.05.2026 | 09:00 -\n        13:00"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__label",
+    "text": "Buyurtmachi ma’lumotlari"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Buyurtmachi nomi"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "O`ZBEKISTON RESPUBLIKASI DAVLAT AKTIVLARINI BOSHQARISH AGENTLIGINING TOSHKENT SHAHAR HUDUDIY BOSHQARMASI"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Mulkdor turi"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Yuridik shaxs"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Viloyat"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Toshkent sh."
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Tuman"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "Mirobod tumani"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Manzil"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "МИРАБАДСКИЙ РАЙОН,Матбуотчилар 32 уй"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Telefon"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "+998 (93) 529 18 68"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "Qo‘shimcha telefon"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "712070240"
+  },
+  {
+    "tag": "TD",
+    "class": "table-attribute-title",
+    "text": "E-mail"
+  },
+  {
+    "tag": "TD",
+    "class": "",
+    "text": "toshkent@davaktiv.uz"
+  },
+  {
+    "tag": "DIV",
+    "class": "q-item__label",
+    "text": "Lot hujjatlari"
+  },
+  {
+    "tag": "DIV",
+    "class": "absolute-bottom text-center text-line-2",
+    "text": "Namunaviy shartnoma"
+  },
+  {
+    "tag": "P",
+    "class": "digit",
+    "text": "02"
+  },
+  {
+    "tag": "P",
+    "class": "text",
+    "text": "Kun"
+  },
+  {
+    "tag": "P",
+    "class": "digit",
+    "text": "18"
+  },
+  {
+    "tag": "P",
+    "class": "text",
+    "text": "Soat"
+  },
+  {
+    "tag": "P",
+    "class": "digit",
+    "text": "02"
+  },
+  {
+    "tag": "P",
+    "class": "text",
+    "text": "Daqiqa"
+  },
+  {
+    "tag": "P",
+    "class": "digit",
+    "text": "31"
+  },
+  {
+    "tag": "P",
+    "class": "text",
+    "text": "Soniya"
+  },
+  {
+    "tag": "LABEL",
+    "class": "",
+    "text": "Hurmatli foydalanuvchi, ariza berish uchun ro‘yxatdan o‘tgan bo‘lishingiz lozim!"
+  },
+  {
+    "tag": "SPAN",
+    "class": "q-btn__content text-center col items-center q-anchor--skip justify-center row",
+    "text": "Ariza berish"
+  },
+  {
+    "tag": "SPAN",
+    "class": "",
+    "text": "Google Maps"
+  },
+  {
+    "tag": "DIV",
+    "class": "full-width",
+    "text": "© Copyright 2017-2026. \"Elektron onlayn-auksionlarni tashkil etish\" AJ. Barcha huquqlar himoyalangan"
+  },
+  {
+    "tag": "DIV",
+    "class": "phone2",
+    "text": "+998 71 202-21-11"
+  },
+  {
+    "tag": "DIV",
+    "class": "col q-py-none self-center q-pb-xs",
+    "text": "Veb-saytdagi axborot materiallaridan boshqa shaxslar foydalanganda jamiyatning korporativ veb-saytiga majburiy havolalar ko‘rsatilishi kerak"
+  }
+]
